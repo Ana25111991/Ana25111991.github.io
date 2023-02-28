@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    max-width: 100%;height: auto;
+  }
+
+  section{
+    width: 1000px;
+    border: 15px solid grey;
+    padding: 50px;
+    margin: 20px;
+    
+
+}
+section h1{ 
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    border: 25px solid gray; padding: 10px; 
+}
+
+section h2{
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:left;
+}
+
+section div{ 
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: justify;
+    font-size: 15px;
+}
+
+section p{ 
+    color: gray;
+    font-family:'Golos Text', sans-serif;
+    text-align:justify;
+    font-size: 15px;
+}
+
+section li{
+   color: gray;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-align:left;
+}
+
